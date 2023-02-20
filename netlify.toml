@@ -14,7 +14,6 @@
   [plugins.inputs]
       record = true
       group = "Testing Built Site"
-      [[plugins]]
 [[plugins]]
 package = "netlify-plugin-rss"
   [plugins.inputs]
